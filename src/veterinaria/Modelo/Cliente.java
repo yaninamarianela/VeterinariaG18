@@ -8,6 +8,7 @@ package veterinaria.Modelo;
 /**
  *
  * @author Lucas Jimenez
+ * probando edición nacho
  */
 public class Cliente {
     
